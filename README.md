@@ -34,7 +34,7 @@ real-time-chat-app/
 ## 🌐 Live Demo
 
 - **Frontend (React UI)**: [https://your-frontend-url.onrender.com](https://chat-client-hx2x.onrender.com)
-- **Backend (WebSocket URL)**: `wss://chat-server-i90b.onrender.com`
+- **Backend (WebSocket URL)**: `https://chat-server-i90b.onrender.com`
 
 > ✅ Open in two browser tabs to test real-time messaging.
 

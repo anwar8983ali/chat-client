@@ -55,7 +55,12 @@ real-time-chat-app/
 
 🔗 [View Backend Source Code](https://github.com/anwar8983ali/chat-server)
 
-##OUTPUT-  
+##OUTPUT-   
+<img width="910" height="564" alt="Image" src="https://github.com/user-attachments/assets/93240761-a60c-4a3a-945b-972e0820eb1b" />
+
+<img width="1596" height="957" alt="Image" src="https://github.com/user-attachments/assets/03ae153f-5376-45e0-af57-cc6233e830d6" />
+
+<img width="1596" height="957" alt="Image" src="https://github.com/user-attachments/assets/9da3e8dd-4058-439c-b0ac-1589f09350f1" />
  
 
 

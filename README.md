@@ -1,3 +1,13 @@
+## 🔖 Internship Details
+
+🔹 **COMPANY**: Codetech IT Solutions  
+🔹 **NAME**: Anwar Ali  
+🔹 **INTERN ID**: CT06DG11  
+🔹 **DOMAIN**: Front-End Development  
+🔹 **DURATION**: 6 Weeks  
+🔹 **MENTOR**: Neela Santosh  
+
+
 # 💬 Real-Time Chat Application
 
 A fully responsive real-time chat application built with **React.js** on the frontend and **WebSockets** for real-time communication. This project includes message history, seamless updates across users, and is fully hosted on Render.

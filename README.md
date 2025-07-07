@@ -60,7 +60,7 @@ real-time-chat-app/
 
 <img width="1596" height="957" alt="Image" src="https://github.com/user-attachments/assets/03ae153f-5376-45e0-af57-cc6233e830d6" />
 
-<img width="1596" height="957" alt="Image" src="https://github.com/user-attachments/assets/9da3e8dd-4058-439c-b0ac-1589f09350f1" />
+<img width="401" height="899" alt="Image" src="https://github.com/user-attachments/assets/b350dab4-57b0-400c-9744-d2e53d263aee" />
  
 
 

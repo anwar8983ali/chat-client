@@ -7,7 +7,7 @@ function App() {
   const ws = useRef(null);
 
   useEffect(() => {
-    ws.current = new WebSocket("wss://chat-server.onrender.com");
+    ws.current = new WebSocket("wss://chat-server-i90b.onrender.com");
 
     ws.current.onmessage = (event) => {
       const msg = JSON.parse(event.data);
